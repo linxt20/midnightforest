@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/map">
+        <file>allmaptxt/firstsection.txt</file>
+        <file>allmaptxt/firstsectionrole.txt</file>
+        <file>allmaptxt/secondsection.txt</file>
+        <file>allmaptxt/fourthsection.txt</file>
+        <file>allmaptxt/thirdsection.txt</file>
+        <file>allmaptxt/fourthsectionrole.txt</file>
+        <file>allmaptxt/secondsectionrole.txt</file>
+        <file>allmaptxt/thirdsectionrole.txt</file>
+        <file>allmaptxt/firstsection1.txt</file>
+    </qresource>
+</RCC>

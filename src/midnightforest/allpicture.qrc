@@ -1,0 +1,76 @@
+<RCC>
+    <qresource prefix="/start">
+        <file>allpicture/gamename.png</file>
+        <file>allpicture/startbutton.png</file>
+        <file>allpicture/startinterface.png</file>
+    </qresource>
+    <qresource prefix="/select">
+        <file>allpicture/selectinterface.png</file>
+        <file>allpicture/withering glacier.png</file>
+        <file>allpicture/BeaconRedCliff.png</file>
+        <file>allpicture/midnightforest.png</file>
+        <file>allpicture/Countercurrentlight.png</file>
+    </qresource>
+    <qresource prefix="/fightinformation">
+        <file>allpicture/informationbackground.png</file>
+        <file>allpicture/fight.png</file>
+        <file>allpicture/information.png</file>
+        <file>allpicture/move.png</file>
+        <file>allpicture/over.png</file>
+        <file>allpicture/withdraw.png</file>
+    </qresource>
+    <qresource prefix="/terrain">
+        <file>allpicture/bartizan.png</file>
+        <file>allpicture/bridge.png</file>
+        <file>allpicture/granary.png</file>
+        <file>allpicture/grasstrap.png</file>
+        <file>allpicture/stone.png</file>
+        <file>allpicture/wall.png</file>
+        <file>allpicture/river.png</file>
+        <file>allpicture/grass.png</file>
+        <file>allpicture/blackgrass.png</file>
+        <file>allpicture/blackstone.png</file>
+        <file>allpicture/blacktrap.png</file>
+        <file>allpicture/redgrass.png</file>
+        <file>allpicture/redstone.png</file>
+        <file>allpicture/redtrap.png</file>
+        <file>allpicture/whitestone.png</file>
+        <file>allpicture/whitegrass.png</file>
+        <file>allpicture/whitetrap.png</file>
+    </qresource>
+    <qresource prefix="/enemyrole">
+        <file>allpicture/EnemyArcher.png</file>
+        <file>allpicture/enemyboss.png</file>
+        <file>allpicture/EnemyKnight.png</file>
+        <file>allpicture/Enemymage.png</file>
+        <file>allpicture/Enemymelee.png</file>
+        <file>allpicture/Enemyshield.png</file>
+    </qresource>
+    <qresource prefix="/myrole">
+        <file>allpicture/myArcher.png</file>
+        <file>allpicture/myboss.png</file>
+        <file>allpicture/myKnight.png</file>
+        <file>allpicture/mymage.png</file>
+        <file>allpicture/mymelee.png</file>
+        <file>allpicture/myshield.png</file>
+    </qresource>
+    <qresource prefix="/usualbutton">
+        <file>allpicture/cancel.png</file>
+        <file>allpicture/place.png</file>
+        <file>allpicture/jump.png</file>
+    </qresource>
+    <qresource prefix="/whilefighting">
+        <file>allpicture/mulitfunction.png</file>
+        <file>allpicture/enemyhuihe.png</file>
+        <file>allpicture/myhuihe.png</file>
+        <file>allpicture/placehuihe.png</file>
+        <file>allpicture/overplace.png</file>
+        <file>allpicture/g.png</file>
+    </qresource>
+    <qresource prefix="/vectoryandfalse">
+        <file>allpicture/false.png</file>
+        <file>allpicture/vectory.png</file>
+        <file>allpicture/continue.png</file>
+        <file>allpicture/reward.png</file>
+    </qresource>
+</RCC>

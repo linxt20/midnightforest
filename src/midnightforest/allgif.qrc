@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/emeny">
+        <file>allgif/EnemyArcher.gif</file>
+        <file>allgif/enemybossgif.gif</file>
+        <file>allgif/EnemyKnight.gif</file>
+        <file>allgif/Enemymage.gif</file>
+        <file>allgif/Enemymelee.gif</file>
+        <file>allgif/Enemyshield.gif</file>
+    </qresource>
+    <qresource prefix="/my">
+        <file>allgif/myArcher.gif</file>
+        <file>allgif/mybossgif.gif</file>
+        <file>allgif/myKnight.gif</file>
+        <file>allgif/mymage.gif</file>
+        <file>allgif/mymelee.gif</file>
+        <file>allgif/myshield.gif</file>
+    </qresource>
+    <qresource prefix="/pot">
+        <file>allgif/finally.gif</file>
+        <file>allgif/longlongago.gif</file>
+    </qresource>
+</RCC>

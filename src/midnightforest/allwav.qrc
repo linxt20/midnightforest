@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/section">
+        <file>allwav/first.wav</file>
+        <file>allwav/fourth.wav</file>
+        <file>allwav/second.wav</file>
+        <file>allwav/third.wav</file>
+    </qresource>
+    <qresource prefix="/else">
+        <file>allwav/false.wav</file>
+        <file>allwav/select.wav</file>
+        <file>allwav/start.wav</file>
+        <file>allwav/vectory.wav</file>
+    </qresource>
+    <qresource prefix="/fignting">
+        <file>allwav/fire.wav</file>
+        <file>allwav/ligntning.wav</file>
+        <file>allwav/sword.wav</file>
+    </qresource>
+    <qresource prefix="/pot">
+        <file>allwav/finally.wav</file>
+        <file>allwav/longlong.wav</file>
+    </qresource>
+</RCC>
